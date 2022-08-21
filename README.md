@@ -13,3 +13,4 @@
 6. Get the Second Most Recent Activity [LeetCode 1369](https://leetcode.com/problems/get-the-second-most-recent-activity/)
 
 7. Find the Quiet Students in All Exams [LeetCode 1412](https://leetcode.com/problems/find-the-quiet-students-in-all-exams/)
+
